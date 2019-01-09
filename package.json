@@ -1,0 +1,23 @@
+{
+  "name": "tdd-webdev",
+  "version": "1.0.0",
+  "description": "To make a simple web-app using TDD methodologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott88lee/TDD-webdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott88lee/TDD-webdev/issues"
+  },
+  "homepage": "https://github.com/scott88lee/TDD-webdev#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6"
+  }
+}
